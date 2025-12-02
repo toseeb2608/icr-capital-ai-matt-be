@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "65d73e9ce5cf164f95c77fb3"
+  },
+  "name": "stage",
+  "email": "icradmin@sjinnovation.com",
+  "employeeCount": 100,
+  "status": "active",
+  "is_deleted": false,
+  "createdAt": {
+    "$date": "2024-02-22T12:31:24.049Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-22T12:31:24.049Z"
+  },
+  "__v": 0
+}]

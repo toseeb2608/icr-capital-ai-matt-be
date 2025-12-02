@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "65d73e9ce5cf164f95c77fad"
+  },
+  "key": "tokens",
+  "value": "3000",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-02-22T12:31:24.038Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-22T12:31:24.038Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d73e9ce5cf164f95c77fae"
+  },
+  "key": "temperature",
+  "value": "0.1",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-02-22T12:31:24.038Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-22T12:31:24.038Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d73e9ce5cf164f95c77faf"
+  },
+  "key": "openaikey",
+  "value": "YOUR_OPENAI_API_KEY_HERE",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-02-22T12:31:24.039Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-22T12:32:34.238Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d73e9ce5cf164f95c77fb0"
+  },
+  "key": "model",
+  "value": "gpt-4",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-02-22T12:31:24.039Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-22T12:31:24.039Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d73e9ce5cf164f95c77fb1"
+  },
+  "key": "threshold",
+  "value": "23",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-02-22T12:31:24.039Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-22T12:31:24.039Z"
+  }
+}]

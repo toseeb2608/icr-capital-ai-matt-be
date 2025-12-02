@@ -1,0 +1,668 @@
+[{
+  "_id": {
+    "$oid": "677e64433f5779b6dba5d16d"
+  },
+  "maxusertokens": 5000,
+  "currentusertokens": 0,
+  "fname": "DEV",
+  "lname": "USER",
+  "username": "devuser@gmail.com",
+  "password": "$2a$10$gTZWemgmC2vqMCjElJLgPeldcPwksBv473P2h7ENAjB//fDoVFm6C",
+  "email": "devuser@gmail.com",
+  "status": "active",
+  "role": "superadmin",
+  "companyId": "65d73e9ce5cf164f95c77fb3",
+  "teams": [],
+  "authMethod": "local",
+  "createdAt": {
+    "$date": "2025-01-08T11:40:51.948Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-08T11:40:51.948Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67867860c40b84e2b0525477"
+  },
+  "maxusertokens": 5000,
+  "currentusertokens": 0,
+  "fname": "Afshan",
+  "lname": "K",
+  "username": "2025-01-14T14:46:22.065Z",
+  "password": "$2a$10$tOm9ZPf0FKdPpUW.w04Uc.r1LM/1vV.3j9xmGvqbOsFxJ5Gab9QhW",
+  "email": "2025-01-14T14:46:22.065Z",
+  "status": "active",
+  "role": "user",
+  "companyId": "65d73e9ce5cf164f95c77fb3",
+  "teams": [],
+  "azureADId": "2025-01-14T14:46:22.065Z",
+  "authMethod": "azureAD",
+  "createdAt": {
+    "$date": "2025-01-14T14:44:48.442Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-14T14:46:22.353Z"
+  },
+  "__v": 0,
+  "deletedEmail": "$email"
+},
+{
+  "_id": {
+    "$oid": "6786790cc40b84e2b05254e6"
+  },
+  "maxusertokens": 5000,
+  "currentusertokens": 0,
+  "fname": "muhon",
+  "lname": "ali",
+  "username": "2025-02-13T13:41:35.790Z",
+  "password": "$2a$10$07KIg6VfQKEARVfpu3SVRORBUHIckCELIzZWe25pC7IVxRYD9mUnG",
+  "email": "2025-02-13T13:41:35.790Z",
+  "status": "active",
+  "role": "user",
+  "companyId": "65d73e9ce5cf164f95c77fb3",
+  "teams": [],
+  "azureADId": "2025-02-13T13:41:35.790Z",
+  "authMethod": "azureAD",
+  "createdAt": {
+    "$date": "2025-01-14T14:47:40.776Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T13:41:35.887Z"
+  },
+  "__v": 0,
+  "deletedEmail": "$email"
+},
+{
+  "_id": {
+    "$oid": "678a5a6c9a701c7f9449dfdb"
+  },
+  "maxusertokens": 5000,
+  "currentusertokens": 0,
+  "fname": "Afshan",
+  "lname": "K",
+  "username": "2025-01-17T13:26:27.938Z",
+  "password": "$2a$10$IdY2FT/XLhoViWchNCed0uMd.Ct8KSafF73x0Xrkx91.aMrK4thB2",
+  "email": "2025-01-17T13:26:27.938Z",
+  "status": "inactive",
+  "role": "user",
+  "companyId": "65d73e9ce5cf164f95c77fb3",
+  "teams": [],
+  "azureADId": "2025-01-17T13:26:27.938Z",
+  "authMethod": "azureAD",
+  "createdAt": {
+    "$date": "2025-01-17T13:26:04.202Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-17T13:26:28.334Z"
+  },
+  "__v": 0,
+  "deletedEmail": "$email"
+},
+{
+  "_id": {
+    "$oid": "67adf6c1b6b4071b12532423"
+  },
+  "maxusertokens": 5000,
+  "currentusertokens": 0,
+  "fname": "Deb",
+  "lname": "Naik",
+  "username": "2025-02-13T13:42:38.667Z",
+  "password": "$2a$10$24GCM5F1Vd5H73tNF3xY9engTfmS4DIqBGruLz27bseGHyztSMuqm",
+  "email": "2025-02-13T13:42:38.667Z",
+  "status": "active",
+  "role": "superadmin",
+  "companyId": "65d73e9ce5cf164f95c77fb3",
+  "teams": [],
+  "authMethod": "local",
+  "createdAt": {
+    "$date": "2025-02-13T13:42:25.768Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-13T13:42:38.886Z"
+  },
+  "__v": 0,
+  "azureADId": "2025-02-13T13:42:38.667Z",
+  "deletedEmail": "$email"
+},
+{
+  "_id": {
+    "$oid": "67c6a715b6b4071b1253280b"
+  },
+  "maxusertokens": 5000,
+  "currentusertokens": 0,
+  "fname": "Vivek ",
+  "lname": "Paste",
+  "username": "2025-03-04T11:23:37.976Z",
+  "password": "$2a$10$fO3TF.TcIsHJPrXqfGRUA.UVCpea9d2/1.A7qtD3Rhnwt3d8ny7E.",
+  "email": "2025-03-04T11:23:37.976Z",
+  "status": "active",
+  "role": "superadmin",
+  "companyId": "65d73e9ce5cf164f95c77fb3",
+  "teams": [],
+  "authMethod": "local",
+  "createdAt": {
+    "$date": "2025-03-04T07:09:09.648Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-04T11:23:38.269Z"
+  },
+  "__v": 0,
+  "azureADId": "2025-03-04T11:23:37.976Z",
+  "deletedEmail": "$email"
+},
+{
+  "_id": {
+    "$oid": "67c6d86cb6b4071b12532a2e"
+  },
+  "maxusertokens": 5000,
+  "currentusertokens": 0,
+  "fname": "Vivek",
+  "lname": "Eknath",
+  "username": "2025-03-04T11:39:37.782Z",
+  "password": "$2a$10$ONl7uibkw2mOo1XYdeqytOLGrP5UPw2RjkFTZlLyx7eCKY.jGgbvi",
+  "email": "2025-03-04T11:39:37.782Z",
+  "status": "active",
+  "role": "superadmin",
+  "companyId": "65d73e9ce5cf164f95c77fb3",
+  "teams": [],
+  "authMethod": "local",
+  "createdAt": {
+    "$date": "2025-03-04T10:39:40.874Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-04T11:39:37.976Z"
+  },
+  "__v": 0,
+  "azureADId": "2025-03-04T11:39:37.782Z",
+  "deletedEmail": "$email"
+},
+{
+  "_id": {
+    "$oid": "67c8603ab6b4071b12532ded"
+  },
+  "maxusertokens": 5000,
+  "currentusertokens": 0,
+  "fname": "Vivek Eknath",
+  "lname": "Paste",
+  "username": "2025-03-05T14:33:35.294Z",
+  "password": "$2a$10$KvPZWsypX0V77k8EUv0e..JQDPnlVMNiNWKG/vpWUveh7rz1KEkmm",
+  "email": "2025-03-05T14:33:35.294Z",
+  "status": "active",
+  "role": "user",
+  "companyId": "65d73e9ce5cf164f95c77fb3",
+  "teams": [],
+  "azureADId": "2025-03-05T14:33:35.294Z",
+  "authMethod": "azureAD",
+  "createdAt": {
+    "$date": "2025-03-05T14:31:22.290Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-05T14:33:35.372Z"
+  },
+  "__v": 0,
+  "deletedEmail": "$email"
+},
+{
+  "_id": {
+    "$oid": "67cac3ca73b7737cae6f0e8b"
+  },
+  "maxusertokens": 5000,
+  "currentusertokens": 0,
+  "fname": "vivek",
+  "lname": "Paste",
+  "username": "2025-03-07T10:15:21.465Z",
+  "password": "$2a$10$j7Lb5orMW16eTYKsPD3nY.AIV/KagOKE/XMLyIrtstJ1xJWk16fiW",
+  "email": "2025-03-07T10:15:21.465Z",
+  "status": "active",
+  "role": "superadmin",
+  "companyId": "65d73e9ce5cf164f95c77fb3",
+  "teams": [],
+  "authMethod": "local",
+  "createdAt": {
+    "$date": "2025-03-07T10:00:42.249Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-07T10:15:21.776Z"
+  },
+  "__v": 0,
+  "azureADId": "2025-03-07T10:15:21.465Z",
+  "deletedEmail": "$email"
+},
+{
+  "_id": {
+    "$oid": "67cad40473b7737cae6f0f87"
+  },
+  "maxusertokens": 5000,
+  "currentusertokens": 0,
+  "fname": "Vivek",
+  "lname": "Paste",
+  "username": "2025-03-07T12:09:15.058Z",
+  "password": "$2a$10$y8r7kITGghEfjvZWvwTgMuEYILpatetMd6.gx8rES64lyZcY.HQdW",
+  "email": "2025-03-07T12:09:15.058Z",
+  "status": "active",
+  "role": "user",
+  "companyId": "65d73e9ce5cf164f95c77fb3",
+  "teams": [],
+  "azureADId": "2025-03-07T12:09:15.058Z",
+  "authMethod": "azureAD",
+  "createdAt": {
+    "$date": "2025-03-07T11:09:56.839Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-07T12:09:15.565Z"
+  },
+  "__v": 0,
+  "deletedEmail": "$email"
+},
+{
+  "_id": {
+    "$oid": "67cff91d73b7737cae6f12b6"
+  },
+  "maxusertokens": 5000,
+  "currentusertokens": 0,
+  "fname": "rashed",
+  "lname": "mahi",
+  "username": "2025-03-11T08:50:08.369Z",
+  "password": "$2a$10$2CXeuGqftIHwB67ejcDuauOVzU9ijAZTayb4ixAzMaU8qMgZJwLlm",
+  "email": "2025-03-11T08:50:08.369Z",
+  "status": "pending",
+  "role": "user",
+  "companyId": "65d73e9ce5cf164f95c77fb3",
+  "teams": [],
+  "azureADId": "2025-03-11T08:50:08.369Z",
+  "authMethod": "azureAD",
+  "createdAt": {
+    "$date": "2025-03-11T08:49:33.915Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-11T08:50:08.551Z"
+  },
+  "__v": 0,
+  "deletedEmail": "$email"
+},
+{
+  "_id": {
+    "$oid": "67cff94c73b7737cae6f12fd"
+  },
+  "maxusertokens": 5000,
+  "currentusertokens": 0,
+  "fname": "rashed",
+  "lname": "mahi",
+  "username": "2025-03-11T09:03:56.502Z",
+  "password": "$2a$10$Kb7.7cASL0YC5CLeB.dzbuTXpRPkjjpoXrfW0LDAG0XVIMcDLKpnO",
+  "email": "2025-03-11T09:03:56.502Z",
+  "status": "active",
+  "role": "user",
+  "companyId": "65d73e9ce5cf164f95c77fb3",
+  "teams": [],
+  "azureADId": "2025-03-11T09:03:56.502Z",
+  "authMethod": "azureAD",
+  "createdAt": {
+    "$date": "2025-03-11T08:50:20.542Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-11T09:03:56.575Z"
+  },
+  "__v": 0,
+  "deletedEmail": "$email"
+},
+{
+  "_id": {
+    "$oid": "67cffc8873b7737cae6f135d"
+  },
+  "maxusertokens": 5000,
+  "currentusertokens": 0,
+  "fname": "rashed",
+  "lname": "mahi",
+  "username": "2025-03-11T09:04:45.861Z",
+  "password": "$2a$10$u9rRn/Wm2Qco1Vd0blgBreCb21B9CWKMg6pfx3mFHDv3W.sLsk8JC",
+  "email": "2025-03-11T09:04:45.861Z",
+  "status": "active",
+  "role": "user",
+  "companyId": "65d73e9ce5cf164f95c77fb3",
+  "teams": [],
+  "azureADId": "2025-03-11T09:04:45.861Z",
+  "authMethod": "azureAD",
+  "createdAt": {
+    "$date": "2025-03-11T09:04:08.319Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-11T09:04:45.943Z"
+  },
+  "__v": 0,
+  "deletedEmail": "$email"
+},
+{
+  "_id": {
+    "$oid": "67d006fa73b7737cae6f13d6"
+  },
+  "maxusertokens": 5000,
+  "currentusertokens": 0,
+  "fname": "rashed",
+  "lname": "mahi",
+  "username": "2025-03-11T09:52:15.778Z",
+  "password": "$2a$10$kqkteuHBVpn8/dDaoWkLbukEs6DPVaVQR3ss7FAh.50bEJP7v8oFC",
+  "email": "2025-03-11T09:52:15.778Z",
+  "status": "active",
+  "role": "user",
+  "companyId": "65d73e9ce5cf164f95c77fb3",
+  "teams": [],
+  "azureADId": "2025-03-11T09:52:15.778Z",
+  "authMethod": "azureAD",
+  "createdAt": {
+    "$date": "2025-03-11T09:48:42.590Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-11T09:52:15.846Z"
+  },
+  "__v": 0,
+  "deletedEmail": "$email"
+},
+{
+  "_id": {
+    "$oid": "67d007e173b7737cae6f1439"
+  },
+  "maxusertokens": 5000,
+  "currentusertokens": 0,
+  "fname": "rashed",
+  "lname": "mahi",
+  "username": "2025-03-11T10:05:44.436Z",
+  "password": "$2a$10$d7PzuDHYtllXlC0OVRT05eGIwgu//VsYDebZfh/J60fypSRpmVYT.",
+  "email": "2025-03-11T10:05:44.436Z",
+  "status": "active",
+  "role": "user",
+  "companyId": "65d73e9ce5cf164f95c77fb3",
+  "teams": [],
+  "azureADId": "2025-03-11T10:05:44.436Z",
+  "authMethod": "azureAD",
+  "createdAt": {
+    "$date": "2025-03-11T09:52:33.511Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-11T10:05:44.503Z"
+  },
+  "__v": 0,
+  "deletedEmail": "$email"
+},
+{
+  "_id": {
+    "$oid": "67d00b3e73b7737cae6f149a"
+  },
+  "maxusertokens": 5000,
+  "currentusertokens": 0,
+  "fname": "rashed",
+  "lname": "mahi",
+  "username": "2025-03-11T10:10:17.015Z",
+  "password": "$2a$10$vDp5w4kF4UwE/0ogBZ0jNe2INyzOGvW1TTOCN8yEA5FO0U8r3T5bi",
+  "email": "2025-03-11T10:10:17.015Z",
+  "status": "pending",
+  "role": "user",
+  "companyId": "65d73e9ce5cf164f95c77fb3",
+  "teams": [],
+  "azureADId": "2025-03-11T10:10:17.015Z",
+  "authMethod": "azureAD",
+  "createdAt": {
+    "$date": "2025-03-11T10:06:54.318Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-11T10:10:17.148Z"
+  },
+  "__v": 0,
+  "deletedEmail": "$email"
+},
+{
+  "_id": {
+    "$oid": "67d00c1b73b7737cae6f14e4"
+  },
+  "maxusertokens": 5000,
+  "currentusertokens": 0,
+  "fname": "rashed",
+  "lname": "mahi",
+  "username": "2025-03-11T10:11:46.126Z",
+  "password": "$2a$10$4Z0ayDmL8fT7Q3zpkMrIdOxygLQrWC0ELODOD6YafqU3A/p5l9htO",
+  "email": "2025-03-11T10:11:46.126Z",
+  "status": "pending",
+  "role": "user",
+  "companyId": "65d73e9ce5cf164f95c77fb3",
+  "teams": [],
+  "azureADId": "2025-03-11T10:11:46.126Z",
+  "authMethod": "azureAD",
+  "createdAt": {
+    "$date": "2025-03-11T10:10:35.396Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-11T10:11:46.523Z"
+  },
+  "__v": 0,
+  "deletedEmail": "$email"
+},
+{
+  "_id": {
+    "$oid": "67d00d2d73b7737cae6f155d"
+  },
+  "maxusertokens": 5000,
+  "currentusertokens": 0,
+  "fname": "Vivek",
+  "lname": "Paste",
+  "username": "2025-03-14T12:12:33.693Z",
+  "password": "$2a$10$yfOIEO3ns.MCezTic5AL4eEkGl3XqP/qfLEizG2gQugD7/9p51sTC",
+  "email": "2025-03-14T12:12:33.693Z",
+  "status": "pending",
+  "role": "user",
+  "companyId": "65d73e9ce5cf164f95c77fb3",
+  "teams": [],
+  "azureADId": "2025-03-14T12:12:33.693Z",
+  "authMethod": "azureAD",
+  "createdAt": {
+    "$date": "2025-03-11T10:15:09.175Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-14T12:12:33.907Z"
+  },
+  "__v": 0,
+  "deletedEmail": "$email"
+},
+{
+  "_id": {
+    "$oid": "67d41d10cdf71e8491c5b179"
+  },
+  "maxusertokens": 5000,
+  "currentusertokens": 0,
+  "fname": "rashed",
+  "lname": "mahi",
+  "username": "2025-03-14T12:12:36.755Z",
+  "password": "$2a$10$7u0yS6.byEVGtJhIzk1kDeZJ/xwqd8Jd/SxxV1GvehDGKpI6JtXRK",
+  "email": "2025-03-14T12:12:36.755Z",
+  "status": "pending",
+  "role": "user",
+  "companyId": "65d73e9ce5cf164f95c77fb3",
+  "teams": [],
+  "azureADId": "2025-03-14T12:12:36.755Z",
+  "authMethod": "azureAD",
+  "createdAt": {
+    "$date": "2025-03-14T12:12:00.331Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-14T12:12:36.828Z"
+  },
+  "__v": 0,
+  "deletedEmail": "$email"
+},
+{
+  "_id": {
+    "$oid": "67d7eac3cdf71e8491c5b30e"
+  },
+  "maxusertokens": 5000,
+  "currentusertokens": 0,
+  "fname": "vivek",
+  "lname": "pastre",
+  "username": "2025-03-20T13:39:32.983Z",
+  "password": "$2a$10$H6X/8uKjGzMMl.tMWqHXueUk8LF6puSO6lft6SdMN9Pw6l1I0eREO",
+  "email": "2025-03-20T13:39:32.983Z",
+  "status": "active",
+  "role": "superadmin",
+  "companyId": "65d73e9ce5cf164f95c77fb3",
+  "teams": [],
+  "authMethod": "local",
+  "createdAt": {
+    "$date": "2025-03-17T09:26:27.313Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-20T13:39:33.055Z"
+  },
+  "__v": 0,
+  "azureADId": "2025-03-20T13:39:32.983Z",
+  "deletedEmail": "$email"
+},
+{
+  "_id": {
+    "$oid": "67dc1b91cdf71e8491c5b6bb"
+  },
+  "maxusertokens": 5000,
+  "currentusertokens": 0,
+  "fname": "rashed",
+  "lname": "mahi",
+  "username": "2025-04-02T11:33:02.700Z",
+  "password": "$2a$10$/gvTxa3J0E0p18.1vMouAO40sQSjXngik9kqjyjv0Z64gK197ppmK",
+  "email": "2025-04-02T11:33:02.700Z",
+  "status": "active",
+  "role": "superadmin",
+  "companyId": "65d73e9ce5cf164f95c77fb3",
+  "teams": [],
+  "azureADId": "2025-04-02T11:33:02.700Z",
+  "authMethod": "azureAD",
+  "createdAt": {
+    "$date": "2025-03-20T13:43:45.549Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-02T11:33:03.152Z"
+  },
+  "__v": 0,
+  "deletedEmail": "$email"
+},
+{
+  "_id": {
+    "$oid": "67e51daecdf71e8491c5b8ec"
+  },
+  "maxusertokens": 5000,
+  "currentusertokens": 0,
+  "fname": "Sayeem",
+  "lname": "Khan",
+  "username": "2025-03-28T10:00:21.456Z",
+  "password": "$2a$10$3SIxtkY5O7Wg134OrnYm8.9I6WpyizYhM3BwLjxpFauW8e37SiAtq",
+  "email": "2025-03-28T10:00:21.456Z",
+  "status": "active",
+  "role": "superadmin",
+  "companyId": "65d73e9ce5cf164f95c77fb3",
+  "teams": [],
+  "authMethod": "local",
+  "createdAt": {
+    "$date": "2025-03-27T09:43:10.065Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-28T10:00:21.668Z"
+  },
+  "__v": 0,
+  "azureADId": "2025-03-28T10:00:21.456Z",
+  "deletedEmail": "$email"
+},
+{
+  "_id": {
+    "$oid": "67e53b9acdf71e8491c5bbb4"
+  },
+  "maxusertokens": 5000,
+  "currentusertokens": 0,
+  "fname": "Hrishi",
+  "lname": "naik",
+  "username": "2025-03-28T09:54:57.187Z",
+  "password": "$2a$10$vUoiqowluryJCUHH91rE..YnuGIEN4TM9owaXfwi75SCuMD0fY.3u",
+  "email": "2025-03-28T09:54:57.187Z",
+  "status": "active",
+  "role": "superadmin",
+  "companyId": "65d73e9ce5cf164f95c77fb3",
+  "teams": [],
+  "authMethod": "local",
+  "createdAt": {
+    "$date": "2025-03-27T11:50:50.572Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-28T09:54:57.547Z"
+  },
+  "__v": 0,
+  "azureADId": "2025-03-28T09:54:57.187Z",
+  "deletedEmail": "$email"
+},
+{
+  "_id": {
+    "$oid": "67e672f8cdf71e8491c5bd25"
+  },
+  "maxusertokens": 5000,
+  "currentusertokens": 0,
+  "fname": "ICR",
+  "lname": "Admin",
+  "username": "icradmin@sjinnovation.com",
+  "password": "$2a$10$T/hG5LyUKgpinmh4xCRtK.g6Glb.Gqixo48QDltttvLb9CQmycqwS",
+  "email": "icradmin@sjinnovation.com",
+  "status": "active",
+  "role": "superadmin",
+  "companyId": "65d73e9ce5cf164f95c77fb3",
+  "teams": [],
+  "authMethod": "local",
+  "createdAt": {
+    "$date": "2025-03-28T09:59:20.490Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-28T09:59:20.490Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ed17e9cdf71e8491c5bdec"
+  },
+  "maxusertokens": 5000,
+  "currentusertokens": 0,
+  "fname": "Vivek ",
+  "lname": "Paste",
+  "username": "vivek.paste@sjinnovation.com",
+  "password": "$2a$10$ss12rs6liv2F5vI7DzMM4e4aUeoLrWSsmnSz891u05WNwNsCXxM1a",
+  "email": "vivek.paste@sjinnovation.com",
+  "status": "active",
+  "role": "superadmin",
+  "companyId": "65d73e9ce5cf164f95c77fb3",
+  "teams": [],
+  "authMethod": "local",
+  "createdAt": {
+    "$date": "2025-04-02T10:56:41.951Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-15T06:44:45.604Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c7bfb992b2c5f4027bf1e0"
+  },
+  "maxusertokens": 5000,
+  "currentusertokens": 0,
+  "fname": "test",
+  "lname": "Admin",
+  "username": "test.admin@gmail.com",
+  "password": "$2a$10$sANPR1MJAUT2TMu4bcVmM.0XXVR0OpmKywT8dEWNjl6Duk49fUkcC",
+  "email": "test.admin@gmail.com",
+  "status": "active",
+  "role": "superadmin",
+  "companyId": "65d73e9ce5cf164f95c77fb3",
+  "teams": [],
+  "authMethod": "local",
+  "createdAt": {
+    "$date": "2025-09-15T07:26:49.977Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T07:26:49.977Z"
+  },
+  "__v": 0
+}]

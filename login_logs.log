@@ -1,0 +1,16 @@
+2025-11-28 17:43:25 [INFO]: Login attempt for email: vivek.paste@sjinnovation.com, using AzureAD: false
+2025-11-28 17:43:25 [WARN]: Login attempt failed: User not found for email: vivek.paste@sjinnovation.com
+2025-12-01 10:56:51 [INFO]: Login attempt for email: vivek.paste@sjinnovation.com, using AzureAD: false
+2025-12-01 10:56:51 [WARN]: Login attempt failed: User not found for email: vivek.paste@sjinnovation.com
+2025-12-01 10:56:53 [INFO]: Login attempt for email: vivek.paste@sjinnovation.com, using AzureAD: false
+2025-12-01 10:56:53 [WARN]: Login attempt failed: User not found for email: vivek.paste@sjinnovation.com
+2025-12-01 12:24:18 [INFO]: Login attempt for email: vivek.paste@sjinnovation.com, using AzureAD: false
+2025-12-01 12:24:19 [INFO]: Login successful for non-Azure user: vivek.paste@sjinnovation.com
+2025-12-01 13:04:08 [INFO]: Login attempt for email: vivek.paste@sjinnovation.com, using AzureAD: false
+2025-12-01 13:04:08 [INFO]: Login successful for non-Azure user: vivek.paste@sjinnovation.com
+2025-12-02 11:01:05 [INFO]: Login attempt for email: vivek.paste@sjinnovation.com, using AzureAD: false
+2025-12-02 11:01:06 [INFO]: Login successful for non-Azure user: vivek.paste@sjinnovation.com
+2025-12-02 11:05:05 [INFO]: Login attempt for email: vivek.paste@sjinnovation.com, using AzureAD: false
+2025-12-02 11:05:05 [INFO]: Login successful for non-Azure user: vivek.paste@sjinnovation.com
+2025-12-02 11:27:27 [INFO]: Login attempt for email: vivek.paste@sjinnovation.com, using AzureAD: false
+2025-12-02 11:27:28 [INFO]: Login successful for non-Azure user: vivek.paste@sjinnovation.com
